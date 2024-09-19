@@ -1,0 +1,30 @@
+import { App } from 'vue'
+import { TextEllipsis, Swipe, SwipeItem, Tab, Tabs, Popup, Loading, Switch, Cascader, Uploader, ActionSheet, CountDown, Image, Dialog, List, PullRefresh, Button, Stepper, SwipeCell, Lazyload, Sticky, BackTop, Icon, Badge, Highlight } from 'vant'
+
+export function vant(app: App) {
+  app.use(TextEllipsis)
+  app.use(Swipe)
+  app.use(SwipeItem)
+  app.use(Tab)
+  app.use(Tabs)
+  app.use(Popup)
+  app.use(Loading)
+  app.use(Switch)
+  app.use(Cascader)
+  app.use(Uploader)
+  app.use(ActionSheet)
+  app.use(CountDown)
+  app.use(Image)
+  app.use(Dialog)
+  app.use(List)
+  app.use(PullRefresh)
+  app.use(Button)
+  app.use(Stepper)
+  app.use(SwipeCell)
+  app.use(Lazyload)
+  app.use(Sticky)
+  app.use(BackTop)
+  app.use(Icon)
+  app.use(Badge)
+  app.use(Highlight)
+}
