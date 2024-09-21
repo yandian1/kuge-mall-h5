@@ -1,5 +1,9 @@
 # 酷鸽商城H5前端
 
+1. [开发工具](#开发工具)
+1. [启动命令](#启动命令)
+1. [演示图例](#演示图例)
+
 ## 开发工具
 * node-20.8.0
 * pnpm-8.8.0
@@ -14,8 +18,8 @@ pnpm install
 pnpm run dev
 ```
 
-## 运行效果
-<div :class="$style.imgs">
+## 演示图例
+<div>
   <img src="/document/img/首页.png" />
   <img src="/document/img/分类.png" />
   <img src="/document/img/购物车.png" />
