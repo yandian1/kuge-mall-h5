@@ -1,8 +1,33 @@
 # 酷鸽商城H5前端
 
+1. [开发工具介绍](#开发工具介绍)
+1. [拉取代码](#拉取代码)
+1. [启动项目](#启动项目)
 1. [演示图例](#演示图例)
-1. [开发工具](#开发工具)
-1. [启动命令](#启动命令)
+
+## 开发工具介绍
+* node20.8.0
+* pnpm8.8.0
+* vscode
+* 淘宝镜像源：https://registry.npmmirror.com
+
+tips：需要先安装好上面的开发工具，以启动项目
+
+
+## 拉取代码
+```shell
+git clone git@github.com:xiexianbao/kuge-mall-h5.git
+```
+
+## 启动项目
+```shell
+# 安装依赖
+pnpm install
+
+# 本地运行
+pnpm run dev
+```
+tips：正常运行需要启动后端服务，后端项目地址：https://github.com/xiexianbao/kuge-mall
 
 
 ## 演示图例
@@ -37,17 +62,3 @@
   <img src="/document/img/更换手机号.png" />
   <img src="/document/img/登录.png" />
 </div>
-
-## 开发工具
-* node-20.8.0
-* pnpm-8.8.0
-* 淘宝镜像源：https://registry.npmmirror.com
-
-## 启动命令
-```shell
-# 安装依赖
-pnpm install
-
-# 本地运行
-pnpm run dev
-```
