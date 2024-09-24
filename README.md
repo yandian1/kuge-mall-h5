@@ -1,6 +1,6 @@
 # 酷鸽商城H5前端
 
-kuge-mall-h5是酷鸽商城H5端项目，具有首页、购物车、商详、确认订单、支付、订单管理、售后管理、我的等功能。技术栈为Vue3+Typescript+Vue-Router+Pinia+VantUI+Less+Vite
+kuge-mall-h5是酷鸽商城H5端项目，具有首页、购物车、商详、确认订单、支付、订单管理、售后管理、我的等功能。技术栈为Vue3、Typescript、Vue-Router、Pinia、VantUI、Less、Vite
 
 ![合集](/document/img/合集.jpg "合集")
 
