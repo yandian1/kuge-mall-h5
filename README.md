@@ -5,11 +5,26 @@ kuge-mall-h5是酷鸽商城H5端项目，具有首页、购物车、商详、确
 ![合集](/document/img/合集.jpg "合集")
 
 ## 目录
+1. [技术栈](#技术栈)
 1. [开发工具](#开发工具)
 1. [拉取代码](#拉取代码)
 1. [启动项目](#启动项目)
 1. [联系作者](#联系作者)
 1. [演示图例](#演示图例)
+
+## 技术栈
+| 技术         | 介绍                | 官网                                      |
+|------------|-------------------|-----------------------------------------|
+| Vue3       | 构建用户界面的JavaScript框架 | https://cn.vuejs.org/guide/introduction.html |
+| TypeScript | 具有类型系统的JavaScript超集 | https://www.typescriptlang.org          |
+| Vue-Router | Vue的官方路由          | https://router.vuejs.org                |
+| Pinia      | Vue状态管理库          | https://pinia.vuejs.org                 |
+| Vite       | 前端构建工具            | https://vitejs.dev |
+| VantUI       | 前端UI库             | https://antdv.com/components/overview |
+| axios       | 网络请求库             | https://www.axios-http.cn/docs/intro |
+| dayjs       | 日期工具库             | https://day.js.org/zh-CN |
+| less       | CSS 扩展语言          | https://less.bootcss.com |
+| postcss       | CSS 转换工具          | https://less.bootcss.com |
 
 ## 开发工具
 * node20.8.0
