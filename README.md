@@ -1,5 +1,9 @@
 # 酷鸽商城H5前端
 
+演示地址：
+1. H5端：http://124.71.130.245/h5
+2. 管理端：http://124.71.130.245/admin
+
 kuge-mall-h5是酷鸽商城H5端项目，具有首页、购物车、商详、确认订单、支付、订单管理、售后管理、我的等功能。技术栈为Vue3、Typescript、Vue-Router、Pinia、VantUI、Less、Vite
 
 ![合集](/document/img/合集.jpg "合集")
